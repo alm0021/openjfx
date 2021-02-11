@@ -23,7 +23,7 @@ public class TranslateTransitionExample extends Application {
         circle.setRadius(100.0f);
 
         //Setting the color of the circle
-        circle.setFill(Color.BROWN);
+        circle.setFill(Color.RED);
 
         //Setting the stroke width of the circle
         circle.setStrokeWidth(20);
